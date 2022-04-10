@@ -1,0 +1,19 @@
+.blog-recommend-card-ftr h6 {
+    padding-left: 1rem;
+    color: #51d9ee;
+  }
+  .card {
+    border: none;
+    background-color: transparent;
+    margin: 2rem;
+  }
+  .card-body{
+    padding: 0;
+  }
+  .card-text{
+    text-align: justify;
+    letter-spacing: 0.5px;
+    line-height: 22px;
+    font-size: 15px;
+  }
+  

@@ -1,0 +1,21 @@
+.blog-body-inner-wrap {
+  padding: 3rem;
+}
+.blog-body-inner-wrap p {
+  text-align: justify;
+  letter-spacing: 0.5px;
+  line-height: 22px;
+  font-size: 16px;
+}
+.blog-body-ftr-line hr {
+  height: 2px;
+  width:30vw;
+  background: #000;
+  color: rgb(0, 0, 0);
+  border-style: inset;
+  border-width: 1px;
+  margin-left: 0;
+  margin-right: 0;
+ 
+  
+}

@@ -1,0 +1,22 @@
+.blog-header-share {
+  display: flex;
+  vertical-align: middle;
+  flex-wrap: wrap;
+  font-size: 12px;
+  align-content: center;
+  justify-content: center;
+}
+.blog-header-share_icon {
+  margin-inline: 0.2rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  height: 24px;
+  width: 24px;
+  background-color: #0d1224;
+}
+.blog-header-share_icon path {
+  color: #e8fcff;
+}
